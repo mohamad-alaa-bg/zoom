@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.zoom_test",
+      "package_name": "com.example.zoom_test",
+      "sha256_cert_fingerprints": [
+        "2E:54:6F:6B:8F:56:D6:B2:2B:A1:08:37:4D:82:64:11:61:B2:2E:B6:F5:06:00:1A:DC:17:BD:D7:1F:E0:56:BA"
+      ]
+    }
+  }
+]
